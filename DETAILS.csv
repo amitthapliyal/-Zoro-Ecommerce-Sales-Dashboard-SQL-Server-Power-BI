@@ -1,0 +1,41 @@
+OrderID,Amount,Profit,Quantity,Category,SubCategory,PaymentMode
+1,3250,390.0,2,Electronics,Mobiles,Credit Card
+2,1800,270.0,1,Furniture,Chairs,Cash
+3,4500,720.0,3,Clothing,Shirts,UPI
+4,2999,359.88,1,Electronics,Laptops,Debit Card
+5,1200,180.0,2,Grocery,Snacks,Net Banking
+6,2500,300.0,2,Electronics,Headphones,Credit Card
+7,3999,720.0,1,Furniture,Sofas,Cash
+8,2200,330.0,2,Clothing,Jeans,UPI
+9,1500,195.0,1,Grocery,Dairy,Debit Card
+10,3400,476.0,3,Electronics,Laptops,Net Banking
+11,2999,419.86,2,Furniture,Tables,Credit Card
+12,1800,198.0,1,Clothing,Shoes,Cash
+13,2700,378.0,2,Electronics,Mobiles,UPI
+14,4000,560.0,4,Grocery,Beverages,Debit Card
+15,1300,182.0,1,Furniture,Chairs,Net Banking
+16,2200,330.0,2,Clothing,Shirts,Credit Card
+17,3500,490.0,3,Electronics,Headphones,Cash
+18,1750,210.0,1,Grocery,Snacks,UPI
+19,2800,364.0,2,Furniture,Tables,Debit Card
+20,3200,480.0,2,Electronics,Laptops,Net Banking
+21,2600,338.0,2,Clothing,Jeans,Credit Card
+22,4100,615.0,3,Furniture,Sofas,Cash
+23,1900,247.0,1,Grocery,Beverages,UPI
+24,3600,432.0,3,Electronics,Mobiles,Debit Card
+25,2400,312.0,2,Furniture,Chairs,Net Banking
+26,1400,196.0,1,Clothing,Shoes,Credit Card
+27,3000,390.0,3,Grocery,Dairy,Cash
+28,4200,588.0,3,Electronics,Headphones,UPI
+29,2000,260.0,2,Furniture,Tables,Debit Card
+30,2800,392.0,2,Clothing,Shirts,Net Banking
+31,1500,195.0,1,Grocery,Snacks,Credit Card
+32,3700,518.0,3,Electronics,Laptops,Cash
+33,2300,322.0,2,Clothing,Jeans,UPI
+34,4100,533.0,2,Furniture,Sofas,Debit Card
+35,1800,252.0,1,Grocery,Beverages,Net Banking
+36,2600,338.0,2,Electronics,Mobiles,Credit Card
+37,3400,442.0,3,Furniture,Chairs,Cash
+38,2100,273.0,2,Clothing,Shoes,UPI
+39,2900,406.0,2,Electronics,Headphones,Debit Card
+40,1700,221.0,1,Grocery,Dairy,Net Banking
